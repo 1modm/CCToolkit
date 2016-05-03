@@ -1,0 +1,6 @@
+datetime
+argparse
+pysqlite
+xlsxwriter
+python-docx
+pythondialog
