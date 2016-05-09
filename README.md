@@ -72,10 +72,10 @@ Dependencies
 * python hashlib module
 
 
-Linux
+Linux Debian
 ------
 ```
-# apt-get install python python-pip python-dev
+# apt-get install python python-pip python-dev build-essential libsqlite3-dev python-tk python3-dialog
 # git clone https://github.com/1modm/CCToolkit.git && cd CCToolkit
 # pip install -r requirements.lst
 ```
