@@ -1,9 +1,16 @@
 {
   "summary": {
-    "title": "CCToolkit Threatmodel"
+    "title": "CCToolkit Threatmodel",
+    "description": "test"
   },
   "detail": {
     "contributors": [],
-    "diagrams": []
+    "diagrams": [
+      {
+        "title": "test",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ]
   }
 }
